@@ -1,6 +1,6 @@
 # flutter_health_tracker
 
-A new Flutter project.
+
 This is a Flutter health tracker UI. Here I use a table calendar, bottom navigation bar. Here I follow the MVC pattern of writing my code.
 
 ## ScreenShots
