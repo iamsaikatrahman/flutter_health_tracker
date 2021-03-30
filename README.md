@@ -1,7 +1,7 @@
 # flutter_health_tracker
 
 
-This is a Flutter health tracker UI. Here I use a table calendar, bottom navigation bar. Here I follow the MVC pattern of writing my code.
+This is a Flutter health tracker UI. Here I use a table calendar, creating radial progress bar using custom painter,  bottom navigation bar. Here I follow the MVC pattern of writing my code.
 
 ## ScreenShots
 ![health2](https://user-images.githubusercontent.com/75200754/112835058-94d16600-90ba-11eb-98c5-70512e503c5f.png)
